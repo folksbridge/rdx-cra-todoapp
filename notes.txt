@@ -1,0 +1,6 @@
+origin:
+    https://redux.js.org/basics
+    https://github.com/reduxjs/redux/tree/master/examples/todos/src
+
+    https://itnext.io/tutorial-simple-react-redux-app-cd559621ec00
+    https://github.com/nunosoares27/React_Redux_todoApp
