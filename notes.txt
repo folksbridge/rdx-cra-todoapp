@@ -4,3 +4,7 @@ origin:
 
     https://itnext.io/tutorial-simple-react-redux-app-cd559621ec00
     https://github.com/nunosoares27/React_Redux_todoApp
+
+src/index0js & app.js --- defualt by create-react-app
+src/index1.js, src/components/App1.js ...
+src/index.js, src/components/App2.js, src/containers/Table.js & CreateTodo.js ...
